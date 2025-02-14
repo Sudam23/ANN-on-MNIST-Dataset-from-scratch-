@@ -1,1 +1,2 @@
-# ANN-on-MNIST-Dataset-from-scratch-
+# Two-Layer Neural Network on MNIST 🧠📊
+
